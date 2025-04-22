@@ -7,9 +7,9 @@ to balance availability and costs. The main challenge in inventory management co
 lead times, and / or disruptions. There are many different specific problem settings in inventory management 
 (e.g., single vs. multiple supplier, fixed reorder vs. variable reorder quantity, etc.). Therefore, the objective was to work on 
 an implementation of the Q learning reinforcement learning algorithm in an inventory management scenario, which is a typical 
-application area in supply chain management. The file *RL_inventory_management_groupwork.pdf* contains the report, which 
+application area in supply chain management. The file `RL_inventory_management_groupwork.pdf` contains the report, which 
 describes the problem setting, the data generation process, an outlook on extending the model to DQN, as well as the results and 
-a discussion. The implementaion is visible in the *inventory_beer_game_implementation.ipynb* file.
+a discussion. The implementaion is visible in the `inventory_beer_game_implementation.ipynb` file.
 
 ## Team Members
 - [Dennis Götz](https://github.com/dennismgoetz)
